@@ -1,7 +1,7 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
-        "filp/whoops": "^2.3",
-        "tijsverkoyen/css-to-inline-styles": "^2.2"
+        "guzzlehttp/guzzle": "^6",
+        "filp/whoops": "^2",
+        "tijsverkoyen/css-to-inline-styles": "^2"
     }
 }
